@@ -1,0 +1,57 @@
+{
+  "ai_features": {
+    "opportunity_finder": {
+      "enabled": true,
+      "output_count": 10,
+      "inputs": [
+        "location",
+        "skills",
+        "resources",
+        "budget",
+        "market_preference",
+        "infrastructure"
+      ]
+    },
+    "idea_scorecard": {
+      "enabled": true,
+      "score_range": "0-100"
+    },
+    "decision_evidence_board": {
+      "enabled": true,
+      "sections": [
+        "evidence_for",
+        "evidence_against",
+        "assumptions",
+        "missing_information",
+        "confidence_level"
+      ]
+    },
+    "market_research": {
+      "enabled": true,
+      "question_count": 15
+    },
+    "business_calculator": {
+      "enabled": true
+    },
+    "opportunity_comparison": {
+      "enabled": true,
+      "maximum_options": 4
+    },
+    "risk_analyzer": {
+      "enabled": true
+    },
+    "sustainability_analyzer": {
+      "enabled": true
+    },
+    "action_plan_generator": {
+      "enabled": true,
+      "duration_days": 30
+    },
+    "marketing_assistant": {
+      "enabled": true
+    },
+    "chat_assistant": {
+      "enabled": true
+    }
+  }
+}
