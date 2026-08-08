@@ -1,0 +1,21 @@
+{
+  "decision_engine": {
+    "enabled": true,
+    "output_structure": {
+      "recommendation": "",
+      "evidence_for": [],
+      "evidence_against": [],
+      "assumptions": [],
+      "missing_information": [],
+      "confidence_level": "Medium",
+      "reason_for_confidence": "",
+      "recommended_next_steps": []
+    },
+    "confidence_levels": [
+      "High",
+      "Medium",
+      "Low"
+    ],
+    "decision_rule": "Do not make a strong recommendation when important evidence is missing."
+  }
+}
