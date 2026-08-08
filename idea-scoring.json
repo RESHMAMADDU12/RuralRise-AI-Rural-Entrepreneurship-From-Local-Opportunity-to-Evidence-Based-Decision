@@ -1,0 +1,59 @@
+{
+  "idea_scorecard": {
+    "total_score": 100,
+    "criteria": [
+      {
+        "name": "Market Demand",
+        "weight": 20,
+        "description": "Measures potential customer demand for the business."
+      },
+      {
+        "name": "Resource Availability",
+        "weight": 15,
+        "description": "Measures availability of local resources and raw materials."
+      },
+      {
+        "name": "Cost Feasibility",
+        "weight": 15,
+        "description": "Measures whether the business fits the available budget."
+      },
+      {
+        "name": "Skill Match",
+        "weight": 10,
+        "description": "Measures how well the entrepreneur's skills match the business."
+      },
+      {
+        "name": "Competition",
+        "weight": 10,
+        "description": "Measures the level and strength of existing competition."
+      },
+      {
+        "name": "Infrastructure",
+        "weight": 10,
+        "description": "Measures availability of electricity, transportation, storage, internet and other infrastructure."
+      },
+      {
+        "name": "Growth Potential",
+        "weight": 10,
+        "description": "Measures potential to expand the business."
+      },
+      {
+        "name": "Sustainability",
+        "weight": 5,
+        "description": "Measures environmental and community sustainability."
+      },
+      {
+        "name": "Risk",
+        "weight": 5,
+        "description": "Measures business uncertainty and major risks."
+      }
+    ],
+    "rating": {
+      "90-100": "Excellent Opportunity",
+      "75-89": "Good Opportunity",
+      "60-74": "Moderate Opportunity",
+      "40-59": "High Uncertainty",
+      "0-39": "Weak Opportunity"
+    }
+  }
+}
