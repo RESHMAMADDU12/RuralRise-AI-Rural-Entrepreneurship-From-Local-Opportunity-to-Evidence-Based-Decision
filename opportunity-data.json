@@ -1,0 +1,58 @@
+{
+  "business_categories": [
+    {
+      "category": "Agriculture",
+      "examples": [
+        "Organic farming",
+        "Vegetable cultivation",
+        "Fruit processing",
+        "Seed production"
+      ]
+    },
+    {
+      "category": "Food Processing",
+      "examples": [
+        "Pickle production",
+        "Local snacks",
+        "Millet products",
+        "Fruit processing"
+      ]
+    },
+    {
+      "category": "Dairy",
+      "examples": [
+        "Milk products",
+        "Curd production",
+        "Paneer production",
+        "Local dairy delivery"
+      ]
+    },
+    {
+      "category": "Handicrafts",
+      "examples": [
+        "Traditional crafts",
+        "Handmade products",
+        "Bamboo products",
+        "Decorative products"
+      ]
+    },
+    {
+      "category": "Digital Services",
+      "examples": [
+        "Digital service center",
+        "Online form assistance",
+        "Printing and documentation",
+        "Digital payments assistance"
+      ]
+    },
+    {
+      "category": "Rural Tourism",
+      "examples": [
+        "Village tourism",
+        "Local cultural experiences",
+        "Farm visits",
+        "Traditional food experiences"
+      ]
+    }
+  ]
+}
