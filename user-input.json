@@ -1,0 +1,50 @@
+{
+  "user_profile": {
+    "name": "",
+    "age_group": "",
+    "education_level": "",
+    "entrepreneur_experience": "",
+    "preferred_language": "English"
+  },
+  "location": {
+    "state": "",
+    "district": "",
+    "village_or_town": "",
+    "area_type": "Rural"
+  },
+  "budget": {
+    "currency": "INR",
+    "amount": 0
+  },
+  "resources": [
+    "Agricultural land",
+    "Livestock",
+    "Water resources",
+    "Local raw materials",
+    "Agricultural products",
+    "Traditional skills",
+    "Local labor",
+    "Storage facilities",
+    "Transportation",
+    "Internet access",
+    "Electricity"
+  ],
+  "skills": [
+    "Farming",
+    "Food processing",
+    "Handicrafts",
+    "Tailoring",
+    "Dairy",
+    "Poultry",
+    "Digital services",
+    "Retail",
+    "Tourism",
+    "Cooking",
+    "Marketing",
+    "Technology"
+  ],
+  "business_interest": "",
+  "business_idea": "",
+  "market_preference": "",
+  "available_infrastructure": []
+}
