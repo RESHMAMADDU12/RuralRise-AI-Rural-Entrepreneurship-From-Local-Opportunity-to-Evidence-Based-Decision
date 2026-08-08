@@ -1,0 +1,37 @@
+{
+  "project": {
+    "name": "RuralRise AI",
+    "title": "Rural Entrepreneurship: From Local Opportunity to Evidence-Based Decision",
+    "version": "1.0.0",
+    "platform": "AWS PartyRock",
+    "technology": "Generative AI",
+    "category": "Rural Entrepreneurship",
+    "description": "An AI-powered rural entrepreneurship decision assistant that helps users identify local business opportunities, evaluate business ideas, understand risks and make evidence-based decisions.",
+    "target_users": [
+      "Rural students",
+      "Young entrepreneurs",
+      "Farmers and farming families",
+      "Self-help groups",
+      "Rural women entrepreneurs",
+      "Local artisans",
+      "Small-scale producers",
+      "First-time business owners",
+      "Community-based enterprises"
+    ],
+    "core_value_proposition": "Don't just find a business idea. Find the right local opportunity, test the evidence, understand the risks, and make a smarter decision.",
+    "main_features": [
+      "Local Opportunity Finder",
+      "Business Idea Scorecard",
+      "Evidence-Based Decision Engine",
+      "Local Market Research Assistant",
+      "Business Calculator",
+      "Opportunity Comparison",
+      "Evidence Collection Checklist",
+      "30-Day Action Plan",
+      "Marketing Assistant",
+      "Risk Analyzer",
+      "Sustainability Score",
+      "AI Entrepreneur Chat Assistant"
+    ]
+  }
+}
